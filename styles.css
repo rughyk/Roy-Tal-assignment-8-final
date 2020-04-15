@@ -13,3 +13,23 @@
 
 
 }
+.new {
+    color: #B40E10;
+}
+.contactgreen  {
+    color: #14DB21;
+    text-decoration: underline;
+}
+.contactgreen {
+    color: #179B16;
+}
+.green {
+    color: #1BD830;
+}
+.back1 {
+    background-image: url(images/back.jpg);
+    background-position: 0% 20%;
+}
+.back2 {
+    background-image: url(images/drop.jpg);
+}
