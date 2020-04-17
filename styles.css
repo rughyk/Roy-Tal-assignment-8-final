@@ -37,3 +37,6 @@
 .back2 {
     background-image: url(images/drop.jpg);
 }
+#text {
+	margin: 50px;
+}
